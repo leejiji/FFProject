@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a5867f89da1a514f9629f9359ce2c19, type: 3}
+  m_Name: SO_Player
+  m_EditorClassIdentifier: 
+  unitName: Player
+  number: 0
+  money: 0
+  isDrag: 0
+  isGameOver: 0
+  InText:
+  - Please make food with the sun in it.
+  - I heard a rumor that there is delicious food.
+  - I'm looking for the best flavor.
+  - Please make it sweet and not sweet.
+  - I'm looking for a simple yet fancy flavor.
+  - Please give me the usual one.
+  - I want to eat fusion food from Korea and Finland.
+  - The smell of delicious food led me.
+  - A brilliant smell surrounds me
+  - I'd like hot iced food, please.
+  - Hello!
+  HappyText:
+  - like the Sun over Naantali
+  - pissing honey
+  - It's really good fusion food.
+  - The best taste!
+  - It's very delicious.
+  - The gorgeous taste envelops me.
+  - Thanks!
+  - I LOVE IT!
+  SadText:
+  - to go gingerbread
+  - into the hillslope this food
+  - with the helmet askew
+  - It's so bad that I want to sue it.
+  - I don't want to know what happened in the kitchen.
